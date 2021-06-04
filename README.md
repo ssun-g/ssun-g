@@ -1,6 +1,6 @@
 <h2 align="center">About me 👋 </h2>
 
-<center>B.S. in Computer Science & Information Engineering</center>
+<p align="center">B.S. in Computer Science & Information Engineering</p>
 
 <h3>💻 Interests</h3>
 
@@ -14,37 +14,23 @@
 
 <h3>👯 Activities</h3>
 
-<h5>Naver Boostcamp AI Tech</h5> Jan 2021 - Jun 2021
+<h4>Naver Boostcamp AI Tech</h4> Jan 2021 - Jun 2021
 
 
 
-<h5>Programmers 2021 Dev-Matching: Mathcine Learning Engineer</h5> Final Ranking 10th, May 2021 / [repo](https://github.com/ssun-g/machine_learning/tree/master/2021_dev_matching_ML)
+<h4>Programmers 2021 Dev-Matching: Mathcine Learning Engineer</h4> 
+Final Ranking 10th, May 2021 / [Repository](https://github.com/ssun-g/machine_learning/tree/master/2021_dev_matching_ML)
 
 
 
 <h3>🛠 Tech Stack</h3> Techs that I've used at least once
 
-[![notion]]())
+[![python](http://img.shields.io/badge/-python-3776AB?style=flat-square&logo=python&logoColor=white)]()[![pytorch](http://img.shields.io/badge/-PyTorch-ee4c2c?style=flat-square&logo=PyTorch&logoColor=white)]()[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)]()[![c](https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white)]()[![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)]()
 
-
-
-
-
-
-
-
-
-
+[![numpy](https://img.shields.io/badge/NumPy-0123243?style=flat-square&logo=NumPy&logoColor=white)]()[![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)]()[![opencv](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white)]()[![linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)]()[![mysql](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)]()
 
 
 
 <h3>📫 Contact me!</h3>
 
-
-
-
-
-
-
-
-
+[![notion](http://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&link=https://www.notion.so/Jinsung-s-Activities-AI-2e0fc04e5a914941b4a141ed4d4848a7)](https://www.notion.so/Jinsung-s-Activities-AI-2e0fc04e5a914941b4a141ed4d4848a7)[![Linkedin](http://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&link=https://www.linkedin.com/in/jinsung-lee-78556113a/)](https://www.linkedin.com/in/jinsung-lee-78556113a/)[![Gmail](http://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff&link=jinsung3325@gmail.com)](jinsung@gmail.com)
