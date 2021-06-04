@@ -44,8 +44,12 @@ Final Ranking 10th, May 2021 / <a href="https://github.com/ssun-g/machine_learni
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> 
-
-[![numpy](https://img.shields.io/badge/NumPy-0123243?style=flat-square&logo=NumPy&logoColor=white)]() [![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)]() [![opencv](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white)]() [![linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)]() [![mysql](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)]()
+<br>
+<img src="https://img.shields.io/badge/NumPy-0123243?style=flat-square&logo=NumPy&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> 
 
 
 
