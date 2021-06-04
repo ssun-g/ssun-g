@@ -1,16 +1,50 @@
-### Hi there 👋
+<h2 align="center">About me 👋 </h2>
 
-<!--
-**ssun-g/ssun-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<center>B.S. in Computer Science & Information Engineering</center>
 
-Here are some ideas to get you started:
+<h3>💻 Interests</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Deep Learning in computer vision
+  - Classification
+  - Segmentation
+  - Object Detection
+  - OCR
+
+
+
+<h3>👯 Activities</h3>
+
+<h5>Naver Boostcamp AI Tech</h5> Jan 2021 - Jun 2021
+
+
+
+<h5>Programmers 2021 Dev-Matching: Mathcine Learning Engineer</h5> Final Ranking 10th, May 2021 / [repo](https://github.com/ssun-g/machine_learning/tree/master/2021_dev_matching_ML)
+
+
+
+<h3>🛠 Tech Stack</h3> Techs that I've used at least once
+
+[![notion]]())
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h3>📫 Contact me!</h3>
+
+
+
+
+
+
+
+
+
