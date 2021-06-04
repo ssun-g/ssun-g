@@ -9,7 +9,7 @@
   - Segmentation
   - Object Detection
   - OCR
-
+</hr>
 
 
 <h3>👯 Activities</h3>
@@ -21,7 +21,7 @@
 <h4>Programmers 2021 Dev-Matching: Mathcine Learning Engineer</h4> 
 Final Ranking 10th, May 2021 / <a href="https://github.com/ssun-g/machine_learning/tree/master/2021_dev_matching_ML">Repository</a>
 
-
+</hr>
 
 <h3>🛠 Tech Stack</h3> Techs that I've used at least once
 
@@ -29,7 +29,7 @@ Final Ranking 10th, May 2021 / <a href="https://github.com/ssun-g/machine_learni
 
 [![numpy](https://img.shields.io/badge/NumPy-0123243?style=flat-square&logo=NumPy&logoColor=white)]()[![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)]()[![opencv](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white)]()[![linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)]()[![mysql](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)]()
 
-
+</hr>
 
 <h3>📫 Contact me!</h3>
 
