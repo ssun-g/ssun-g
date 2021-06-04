@@ -9,6 +9,8 @@
   - Segmentation
   - Object Detection
   - OCR
+
+
 </hr>
 
 
