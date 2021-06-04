@@ -39,7 +39,11 @@ Final Ranking 10th, May 2021 / <a href="https://github.com/ssun-g/machine_learni
 
 <h3>🛠 Tech Stack</h3> Techs that I've used at least once
 
-[![python](http://img.shields.io/badge/-python-3776AB?style=flat-square&logo=python&logoColor=white)]() [![pytorch](http://img.shields.io/badge/-PyTorch-ee4c2c?style=flat-square&logo=PyTorch&logoColor=white)]() [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)]() [![c](https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white)]() [![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)]()
+<img src="http://img.shields.io/badge/-python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>&nbsp
+<img src="http://img.shields.io/badge/-PyTorch-ee4c2c?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
 
 [![numpy](https://img.shields.io/badge/NumPy-0123243?style=flat-square&logo=NumPy&logoColor=white)]() [![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)]() [![opencv](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white)]() [![linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)]() [![mysql](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)]()
 
