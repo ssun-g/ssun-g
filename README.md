@@ -36,7 +36,7 @@ Final Ranking 10th, May 2021 / <a href="https://github.com/ssun-g/machine_learni
 
 
 
-<h3>Papers Review</h3>
+<h3>📃 Papers Review</h3>
 <a href="https://github.com/ssun-g/machine_learning/tree/master/papers">Repository</a>
 
 
