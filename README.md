@@ -32,9 +32,14 @@
 Final Ranking 10th, May 2021 / <a href="https://github.com/ssun-g/machine_learning/tree/master/2021_dev_matching_ML">Repository</a>
 
 
+------
 
-<h4>Papers Review</h4>
-paper list: <a href="https://github.com/ssun-g/machine_learning/tree/master/papers">Repository</a>
+
+
+<h3>Papers Review</h3>
+<a href="https://github.com/ssun-g/machine_learning/tree/master/papers">Repository</a>
+
+
 
 ------
 
