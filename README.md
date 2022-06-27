@@ -49,11 +49,11 @@ Final Ranking 10th, May 2021
 
 <h3>🛠 Tech Stack</h3> Techs that I've used at least once
 
-<img src="http://img.shields.io/badge/-python-3776AB?style=flat-square&logo=python&logoColor=white"/></a> 
-<img src="http://img.shields.io/badge/-PyTorch-ee4c2c?style=flat-square&logo=PyTorch&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=python&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/-PyTorch-ee4c2c?style=flat-square&logo=PyTorch&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/NumPy-0123243?style=flat-square&logo=NumPy&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
