@@ -28,8 +28,20 @@
 
 
 
-<h4>Programmers 2021 Dev-Matching: Mathcine Learning Engineer</h4> 
-Final Ranking 10th, May 2021
+------
+
+
+<h3>🏆 Competition</h3>
+
+
+
+<h4>[[DACON] 음향 데이터 COVID-19 검출 AI 경진대회](https://dacon.io/competitions/official/235910/overview/description)</h4>
+Private 8th, May 2022 - July 2022
+
+
+
+<h4>[Programmers 2021 Dev-Matching: Mathcine Learning Engineer](https://career.programmers.co.kr/competitions/1109)</h4> 
+Private 10th, May 2021
 
 <a href="https://github.com/ssun-g/machine_learning/tree/master/2021_dev_matching_ML">Repository</a>
 
