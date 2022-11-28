@@ -35,7 +35,7 @@
 
 
 
-<h4>[[DACON] 음향 데이터 COVID-19 검출 AI 경진대회]</h4>
+<h4>[[DACON] 음향 데이터 COVID-19 검출 AI 경진대회](https://dacon.io/competitions/official/235910/overview/description)</h4>
 Private 8th, May 2022 - July 2022
 
 
