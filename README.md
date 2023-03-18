@@ -8,11 +8,11 @@
 
   - Classification
 
-  - Segmentation
-
-  - Object Detection
+  - Object Detction & Segmentation
 
   - OCR
+  
+  - Anomaly Detection
 
     
 
