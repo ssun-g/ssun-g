@@ -42,12 +42,12 @@ Private 8th, Apr 2022 - May 2022
 
 <h4><a href="https://dacon.io/competitions/official/235910/overview/description">[DACON] 음향 데이터 COVID-19 검출 AI 경진대회</a></h4>
 Private 8th, May 2022 - Jul 2022
+<a href="https://github.com/ssun-g/machine_learning/tree/master/DACON/bird_classification">Repository</a>
 
 &nbsp;
 
-<h4><a herf="https://career.programmers.co.kr/competitions/1109">Programmers 2021 Dev-Matching: Mathcine Learning Engineer</a></h4> 
+<h4><a href="https://career.programmers.co.kr/competitions/1109">Programmers 2021 Dev-Matching: Mathcine Learning Engineer</a></h4> 
 Private 10th, May 2021
-
 <a href="https://github.com/ssun-g/machine_learning/tree/master/2021_dev_matching_ML">Repository</a>
 
 
