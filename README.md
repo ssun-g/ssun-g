@@ -48,7 +48,7 @@ Private 8th, May 2022 - Jul 2022
 <h4><a herf="https://career.programmers.co.kr/competitions/1109">Programmers 2021 Dev-Matching: Mathcine Learning Engineer</a></h4> 
 Private 10th, May 2021
 
-&emsp;&emsp;- <a href="https://github.com/ssun-g/machine_learning/tree/master/2021_dev_matching_ML">Repository</a>
+&emsp;- <a href="https://github.com/ssun-g/machine_learning/tree/master/2021_dev_matching_ML">Repository</a>
 
 
 ------
