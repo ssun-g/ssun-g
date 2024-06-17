@@ -35,8 +35,13 @@
 
 
 
+<h4><a href="https://dacon.io/competitions/official/236251/overview/description">[DACON] 저해상도 조류 이미지 분류 AI 경진대회</a></h4>
+Private 8th, Apr 2022 - May 2022
+
+
+
 <h4><a href="https://dacon.io/competitions/official/235910/overview/description">[DACON] 음향 데이터 COVID-19 검출 AI 경진대회</a></h4>
-Private 8th, May 2022 - July 2022
+Private 8th, May 2022 - Jul 2022
 
 
 
