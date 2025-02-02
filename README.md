@@ -35,18 +35,28 @@
 
 
 
-<h4><a href="">[DACON] 저해상도 조류 이미지 분류 AI 경진대회</a></h4>
-Private 8th, Apr 2022 - May 2022
+<h4>[DACON] 저해상도 조류 이미지 분류 AI 경진대회</h4>
+Private 8th__(top 3%)__, Apr 2022 - May 2022
+
+&nbsp;
+
+<h4>[DACON] 도배 하자 유형 분류 AI 경진대회</h4>
+Private 140th__(top 13%)__, Apr 2023 - May 2023
+
+&nbsp;
+
+<h4>[DACON] 2023 교원그룹 AI OCR 챌린지</h4>
+Private 47th__(top 10%)__, Dec 2022 - Jan 2023
 
 &nbsp;
 
 <h4><a href="https://github.com/ssun-g/machine_learning/tree/master/DACON/bird_classification">[DACON] 음향 데이터 COVID-19 검출 AI 경진대회</a></h4>
-Private 8th, May 2022 - Jul 2022
+Private 8th__(top 3%)__, May 2022 - Jul 2022
 
 &nbsp;
 
 <h4><a href="https://github.com/ssun-g/machine_learning/tree/master/2021_dev_matching_ML">Programmers 2021 Dev-Matching: Mathcine Learning Engineer</a></h4> 
-Private 10th, May 2021
+Private 10th__(top 4%)__, May 2021
 
 
 ------
