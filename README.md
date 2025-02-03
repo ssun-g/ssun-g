@@ -55,7 +55,7 @@ Private 8th/275, May 2022 - Jul 2022
 
 &nbsp;
 
-<h4><a href="https://github.com/ssun-g/machine_learning/tree/master/2021_dev_matching_ML">Programmers 2021 Dev-Matching: Mathcine Learning Engineer</a></h4> 
+<h4><a href="https://github.com/ssun-g/machine_learning/tree/master/2021_dev_matching_ML">Programmers 2021 Dev-Matching: 머신러닝 개발자</a></h4> 
 Private 10th/254, May 2021
 
 
