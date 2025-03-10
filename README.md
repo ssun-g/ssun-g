@@ -35,7 +35,7 @@
 
 
 
-<h4><a href="https://github.com/ssun-g/machine_learning/tree/master/DACON/bird_classification">[DACON] 저해상도 조류 이미지 분류 AI 경진대회></a></h4>
+<h4><a href="https://github.com/ssun-g/machine_learning/tree/master/DACON/bird_classification">[DACON] 저해상도 조류 이미지 분류 AI 경진대회</a></h4>
 Private 8th/385, Apr 2022 - May 2022
 
 &nbsp;
