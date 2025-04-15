@@ -73,7 +73,8 @@ Private 10th/254, May 2021
 
 
 <h3>📌Etc.</h3>
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssung)](https://solved.ac/ssung)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssung)](https://solved.ac/ssung/)
 
 
 
