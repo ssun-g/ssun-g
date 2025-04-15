@@ -104,16 +104,3 @@ Private 10th/254, May 2021
 
 
 
-------
-
-
-
-<h3>📌BOJ</h3>
-
-<img src="https://img.shields.io/badge/Baekjoon Online Judge-1F8ACB?style=flat-square&logo=codecrafters&logoColor=white"/></a>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssung)](https://solved.ac/ssung/)
-
-
-
------
