@@ -72,16 +72,6 @@ Private 10th/254, May 2021
 
 
 
-<h3>📌Etc.</h3>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssung)](https://solved.ac/ssung/)
-
-
-
------
-
-
-
 <h3>🛠 Tech Stack</h3> Techs that I've used at least once
 
 <img src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=python&logoColor=white"/></a> 
@@ -111,3 +101,19 @@ Private 10th/254, May 2021
 <h3>📫 Contact me!</h3>
 
 [![notion](http://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&link=https://gelatinous-eucalyptus-986.notion.site/Jinsung-Lee-1afbb4093963802a98fee0f4da97d388?pvs=4)](https://gelatinous-eucalyptus-986.notion.site/Jinsung-Lee-1afbb4093963802a98fee0f4da97d388?pvs=4) [![Linkedin](http://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&link=https://www.linkedin.com/in/jinsung-lee-78556113a/)](https://www.linkedin.com/in/jinsung-lee-78556113a/) [![Gmail](http://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff&link=mailto:jinsung3325@gmail.com)](mailto:ssung38477@gmail.com)
+
+
+
+------
+
+
+
+<h3>📌BOJ</h3>
+
+<img src="https://img.shields.io/badge/codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/></a>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssung)](https://solved.ac/ssung/)
+
+
+
+-----
